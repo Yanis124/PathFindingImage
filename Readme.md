@@ -1,4 +1,4 @@
-# Project - Find the Shortest Path Between Two Pixels in an Image
+# PathFindingImage - Find the Shortest Path Between Two Pixels in an Image
 
 ## Description:
 The program allows the user to find the shortest path between two pixels in an image. It provides a user-friendly interface for selecting pixels and visualizing the shortest path. The implementation is based on the Dijkstra algorithm. The program requires Python and the Tkinter library for the graphical user interface.
